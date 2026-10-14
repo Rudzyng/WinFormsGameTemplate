@@ -2,3 +2,7 @@
 bin/
 obj/
 *.user
+*.log
+.env
+.env.*
+!.env.example
